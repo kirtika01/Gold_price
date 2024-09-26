@@ -5,11 +5,17 @@ This project predicts gold prices using machine learning models and integrates n
 
 ## Features
 -> Historical Price Analysis using ML models like Linear Regression, Bi-LSTM, LSTM, RNN, CNN, GRU.
+
 -> Sentiment Analysis with NLP to capture market sentiment from news articles.
+
 -> Multi-model Approach to compare performance of various models.
+
 
 ## Tech Stack
 -> Languages: Python
+
 -> Libraries: Scikit-learn, TensorFlow, Keras, NLTK, SpaCy
+
 -> Visualization: Matplotlib, Seaborn
+
 -> Tools: Jupyter Notebooks
